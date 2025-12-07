@@ -38,7 +38,7 @@ install.packages(c("plumber", "httr", "jsonlite", "lubridate"))
 
 ### 2. Start API server
 ```r
-source("setupn.R")
+source("setup.R")
 ```
 Server runs on `http://127.0.0.1:8080`
 
